@@ -1,0 +1,22 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "Namaste React with Prasad Khanapure",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasadkhanapure/NamasteReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Prasad Khanapure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasadkhanapure/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/prasadkhanapure/NamasteReact#readme"
+}
