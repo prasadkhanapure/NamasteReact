@@ -1,12 +1,14 @@
 // import React from "react";
 import ReactDOM from "react-dom/client";
 import Header from "./components/Header";
+import Body from "./components/Body";
+import "./index.css";
 
 const App = () => {
   return (
     <div className="container">
-      <Header/>
-      <h1>Namaste React App Component</h1>
+      <Header />
+      <Body />
     </div>
   );
 };
